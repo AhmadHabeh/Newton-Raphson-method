@@ -1,0 +1,8 @@
+﻿  nl.cpp
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(9,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(14,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(20,5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(25,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(43,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\nl\nl.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  nl.vcxproj -> C:\Users\ahmad\Desktop\folders\school related shit\numerical proj\numerical\nl\Debug\nl.exe
